@@ -2,7 +2,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
-
+//1. yorum
 
 var app = builder.Build();
 
